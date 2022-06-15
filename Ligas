@@ -2,7 +2,7 @@ http://v1pwgfin01:1200/login    - SL QA
 http://v1pwgfin01:1555/login    - OKR QA
 http://v1pwgfin01:1200/DashboardSeguros/SegurosPrincipal/Index - Seguros
 http://v1pwgfin01:107/           - 360 PRO
-
+http://v1pwgfin01/login       - CDO
 
 DHVNKR550	jgonzalezm
 EGXFUD882	hmadero
