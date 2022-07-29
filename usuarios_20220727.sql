@@ -112,6 +112,6 @@ update  okr_empleados set candidato_trabajo_flexible = 1, tf_full_remote = 	0	, 
 update  okr_empleados set candidato_trabajo_flexible = 1, tf_full_remote = 	0	, TF_TUTORIAL_COMPLETO = 	1	where num_empleado = 	5881	;
 update  okr_empleados set candidato_trabajo_flexible = 1, tf_full_remote = 	0	, TF_TUTORIAL_COMPLETO = 	1	where num_empleado = 	53265	;
 update  okr_empleados set candidato_trabajo_flexible = 1, tf_full_remote = 	0	, TF_TUTORIAL_COMPLETO = 	0	where num_empleado = 	60994	;
-update  okr_empleados set candidato_trabajo_flexible = 1, tf_full_remote = 	0	, TF_TUTORIAL_COMPLETO = 	0	where num_empleado = 	64987	;
+update  okr_empleados set candidato_trabajo_flexible = 1, tf_full_remote = 	0	, TF_TUTORIAL_COMPLETO = 	1	where num_empleado = 	64987	;
 update  okr_empleados set candidato_trabajo_flexible = 1, tf_full_remote = 	0	, TF_TUTORIAL_COMPLETO = 	0	where num_empleado = 	64976	;
 update  okr_empleados set candidato_trabajo_flexible = 1, tf_full_remote = 	0	, TF_TUTORIAL_COMPLETO = 	0	where num_empleado = 	64022	;
